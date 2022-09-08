@@ -1,5 +1,5 @@
-# react-native-custom-tab-bar
-Custom Tab Bar for React Native using Reanimated 2 and Lottie Animations
+# react-native-synced-scroll-views
+Synced Scroll Views for React Native
 
 // Github Repository ————————————————————————————————————————————
 
